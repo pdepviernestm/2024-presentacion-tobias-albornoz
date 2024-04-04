@@ -1,10 +1,6 @@
-# presentacion-
+#  ¡Hola! 👋
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+## Acerca de mi
+ Soy **Tobias Albornoz**, un futuro ingeniero en sistemas **21 años**. Me encanta programar en python , jugar al fútbol y explorar el emocionante mundo del **mercado financiero**. Además, disfruto pasar mi tiempo combinando mis conocimientos en finanzas con la programación para crear soluciones innovadoras.
+ Espero tener un buen año academico
 
-Ya saben usar git!
